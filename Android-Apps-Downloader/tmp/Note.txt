@@ -1,0 +1,2 @@
+This folder is the temporary download directory for an app. After the app is downloaded, it is moved
+to the relavant download folder.
