@@ -1,7 +1,7 @@
 <h1 align="center">Awesome-Python-Projetcs</h1>
 <a href="#">
   <div align="center">
-    <img src="image.png" width='700'/>
+    <img src="image.png" width='300'/>
   </div>
 </a> 
 
