@@ -1,4 +1,4 @@
-<h1 align="center">Awesome-Python-Projetcs</h1>
+<h1 align="center">Awesome-Python-Projects</h1>
 <a href="#">
   <div align="center">
     <img src="image.png" width='300'/>
