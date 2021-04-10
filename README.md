@@ -10,3 +10,7 @@
 [![GitHub Forks](https://img.shields.io/github/forks/saadhaxxan/Visual-and-EDA-of-Corona-Virus.svg?style=social&label=Fork&maxAge=2592000)](https://github.com/saadhaxxan/Awesome-Python-Projetcs/fork)
 [![GitHub Issues](https://img.shields.io/github/issues/saadhaxxan/Visual-and-EDA-of-Corona-Virus.svg?style=flat&label=Issues&maxAge=2592000)](https://github.com/saadhaxxan/Awesome-Python-Projetcs/issues)
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat&label=Contributions&colorA=red&colorB=black	)](#)
+
+
+## LICENSE
+- MIT (2021)
