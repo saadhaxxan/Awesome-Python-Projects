@@ -1,6 +1,6 @@
 <div align="center">
 <h1>Awesome Python Projects</h1>
-<h3></h3>
+<h3>A Curated List of Awesome projects made completely with Python.</h3>
 
 <img src="image.png" width='300'>
 [![Build Status](https://img.shields.io/badge/Build-Passing-brightgreen.svg?style=for-the-badge&logo=appveyor)](#)
