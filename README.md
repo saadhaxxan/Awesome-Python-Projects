@@ -12,8 +12,7 @@
 <h1>Novel Resume</h1>
 <h3>A Resume builder for people with interview deadlines.</h3>
 
-<img src="https://www.djangoproject.com/m/img/logos/django-logo-negative.png" height="300px">
-
+<img src="image.png" width='300'>
 <a href="http://www.djangoproject.com/"><img src="https://www.djangoproject.com/m/img/badges/djangomade124x25.gif" border="0" alt="Made with Django." title="Made with Django." /></a>
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 [![Open Source Love png3](https://badges.frapsoft.com/os/v3/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
