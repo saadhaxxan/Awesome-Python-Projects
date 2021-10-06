@@ -1,6 +1,6 @@
 <div align="center">
 <h1>Awesome Python Projects</h1>
-<h3>A Curated List of Awesome projects made completely with Python.</h3>
+<h3>A Curated List of Awesome projects made with Python.</h3>
   
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 [![GitHub forks](https://img.shields.io/github/forks/saadhaxxan/Awesome-Python-Projects.svg?style=social&label=Fork&maxAge=2592000)](https://github.com/saadhaxxan/Awesome-Python-Projects/network/)
